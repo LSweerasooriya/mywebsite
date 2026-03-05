@@ -1,0 +1,25 @@
+/* Style the whole page */
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+/* Style headings */
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+/* Style paragraphs */
+p {
+    color: black;
+    font-size: 18px;
+}
+
+/* Style a button */
+button {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+}
